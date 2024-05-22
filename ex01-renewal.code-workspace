@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ex01-renewal"
+		},
+		{
+			"path": "../../../Desktop/practices"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practices"
+	}
+}
